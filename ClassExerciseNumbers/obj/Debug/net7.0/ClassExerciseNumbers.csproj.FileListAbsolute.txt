@@ -1,0 +1,14 @@
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ClassExerciseNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ClassExerciseNumbers.AssemblyInfoInputs.cache
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ClassExerciseNumbers.AssemblyInfo.cs
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ClassExerciseNumbers.csproj.CoreCompileInputs.cache
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\bin\Debug\net7.0\ClassExerciseNumbers.exe
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\bin\Debug\net7.0\ClassExerciseNumbers.deps.json
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\bin\Debug\net7.0\ClassExerciseNumbers.runtimeconfig.json
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\bin\Debug\net7.0\ClassExerciseNumbers.dll
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\bin\Debug\net7.0\ClassExerciseNumbers.pdb
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ClassExerciseNumbers.dll
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\refint\ClassExerciseNumbers.dll
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ClassExerciseNumbers.pdb
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ClassExerciseNumbers.genruntimeconfig.cache
+C:\MyFirstNet\ClassExerciseNumbersSln\ClassExerciseNumbers\obj\Debug\net7.0\ref\ClassExerciseNumbers.dll
