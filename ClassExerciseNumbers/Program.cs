@@ -17,7 +17,7 @@ namespace ClassExerciseNumbers
             string capitalstring = Words.CapitalizeFirstWords(inputString);
             Console.WriteLine(capitalstring);*/
 
-            /*  int[] numbers = { 2, 4, 6, 9 };
+            /*  int[] numbers = { 2, 4, 6, 9, 12 };
               bool isOddNumber = OddNumbers.CheckOddNumbers(numbers);
               if (isOddNumber)
               {
